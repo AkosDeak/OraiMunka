@@ -1,0 +1,22 @@
+info:
+  name: post
+  type: http
+  seq: 1
+
+http:
+  method: POST
+  url: http://localhost:3000/kolcsonzesek
+  body:
+    type: json
+    data: |-
+      {
+        "konyvId" : 2,
+        "olvasoId" : 3
+      }
+  auth: inherit
+
+settings:
+  encodeUrl: true
+  timeout: 0
+  followRedirects: true
+  maxRedirects: 5
