@@ -5,7 +5,7 @@ info:
 
 http:
   method: PATCH
-  url: http://localhost:3000/kolcsonzesek/11/visszahoz
+  url: http://localhost:3000/kolcsonzesek/2/visszahoz
   auth: inherit
 
 settings:
