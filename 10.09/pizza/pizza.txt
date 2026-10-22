@@ -1,0 +1,131 @@
+1.	Hogy hívják az egyes pizzafutárokat?
+2.	Milyen pizzák közül lehet rendelni, és mennyibe kerülnek?
+3.	Mennyibe kerül átlagosan egy pizza?
+4.	Mely pizzák olcsóbbak 1000 Ft-nál?
+5.	Ki szállította házhoz az első (egyes sorszámú) rendelést?
+6.	Kik rendeltek pizzát délelőtt?
+7.	Milyen pizzákat evett Morgó?
+8.	Ki szállított házhoz Tudornak?
+9.	Az egyes rendelések alkalmával ki kinek szállított házhoz?
+10.	Mennyit költött pizzára Vidor?
+11.	Hány alkalommal rendelt Sorrento pizzát Kuka?
+12.	Hány pizzát evett Szende?
+13.	Hányszor rendelt pizzát Hapci?
+14.	Hány darab Hawaii pizza fogyott összesen?
+15.	Mennyit költöttek pizzára az egyes vevők?
+16.	Mennyit vettek az egyes vevők a különböző pizzákból?
+17.	Ki hány pizzát szállított házhoz az egyes napokon?
+18.	Ki hány pizzát rendelt az egyes napokon?
+19.	Mennyi volt a bevétel az egyes napokon?
+20.	Hány pizza fogyott naponta?
+21.	Mennyi pizza fogyott átlagosan naponta?
+22.	Hány pizzát rendeltek átlagosan egyszerre?
+23.	Hány házhoz szállítása volt az egyes futároknak?
+24.	A fogyasztás alapján mi a pizzák népszerűségi sorrendje?
+25.	A rendelések összértéke alapján mi a vevők sorrendje?
+26.	Melyik a legdrágább pizza?
+27.	Ki szállította házhoz a legtöbb pizzát?
+28.	Ki ette a legtöbb pizzát?
+29.	Melyik nap fogyott a legtöbb pizza?
+30.	Melyik nap fogyott a legtöbb Hawaii pizza?
+31.	Hány pizza fogyott a legforgalmasabb napon?
+32.	Mennyi volt a bevétel a legjobb napon?
+33.	Mi Szundi kedvenc pizzája?
+34.	Kik rendeltek pizzát a nyitás napján?
+35.	Mely pizzák olcsóbbak a Capricciosa pizzánál?
+36.	Mely pizzák drágábbak az átlagosnál?
+37.	Mely pizza ára van legközelebb az átlagárhoz?
+38.	Mely futárok mentek többet házhoz az átlagosnál?
+39.	Kik rendeltek legalább háromszor annyi pizzát, mint egy átlagos vevő?
+40.	Kik szállítottak házhoz legalább tízszer?
+41.	Mely pizzából fogyott legalább 50 db?
+42.	Mely vevők nem rendeltek legalább háromszor?
+43.	Kik rendeltek legalább 5 Hawaii pizzát?
+44.	Milyen pizzából nem rendelt soha Tudor?
+45.	Van-e olyan pizza, amelyből soha nem rendeltek?
+46.	Ki nem rendelt soha Vesuvio pizzát?
+47.	Mely pizzafutárokkal nem találkoztak az egyes vevők?
+48.	Kik rendeltek több Sorrento pizzát, mint Vesuviot?
+49.	Kik rendeltek legalább 5 Capricciosa vagy 8 Frutti di Mare pizzát?
+50.	Kik rendeltek kétfajta pizzából is legalább 10 darabot?
+51.	Listázd ki az összes pizzafutárt a nevük és telefonszámuk feltüntetésével!
+52.	Melyik pizzafutárnak a legtöbb rendelése van?
+53.	Listázd ki a legdrágább pizzát a nevével és árával!
+54.	Hány olyan rendelés van, amelyet a 'Gyalogkakukk' nevű pizzafutár szállított ki?
+55.	Listázd ki azokat a rendeléseket, amelyeket a 'Hurrikán' pizzafutár szállított ki, rendezve az időpont szerint!
+56.	Melyik pizzát rendelték a legtöbbször?
+57.	Listázd ki azokat a rendeléseket, amelyeket a 'Szélvész' pizzafutár szállított ki, és a rendelés ideje 2023. október 4-én volt!
+58.	Hány olyan rendelés van, amelynek az összértéke meghaladja a 3000 forintot?
+59.	Listázd ki azokat a vevőket, akik legalább 2 rendelést adtak le!
+60.	Melyik pizzafutár szállította ki a legtöbb különböző pizzát?
+61.	Hány olyan rendelés van, amelyet a 'Gömbvillám' pizzafutár szállított ki és legalább 3 különböző pizzát tartalmaz?
+62.	Listázd ki azokat a rendeléseket, amelyeket a 'Szélvész' pizzafutár szállított ki, és az összértékük legalább 1000 forint!
+63.	Melyik pizzát rendelték először?
+64.	Hány darab pizzát rendeltek összesen?
+65.	Listázd ki azokat a rendeléseket, amelyeknek a szállítását a 'Gyalogkakukk' pizzafutár végezte, és az áruk összesen legalább 2000 forint!
+66.	Melyik vevő adott le a legtöbb rendelést?
+67.	Hány olyan rendelés van, amelynek az összértéke pontosan 1050 forint?
+68.	Listázd ki azokat a pizzákat, amelyekből legalább 3 darabot rendeltek!
+69.	Melyik pizzát rendelték a legtöbbet egyetlen rendelés során?
+70.	Listázd ki azokat a rendeléseket, amelyeket a 'Gyalogkakukk' pizzafutár szállított ki, és az összértékük meghaladja a 1500 forintot!
+71.	Hány olyan rendelés van, amelyet a 'Szélvész' pizzafutár szállított ki és legalább 2 különböző pizzát tartalmaz?
+72.	Melyik vevő rendelt először pizzát?
+73.	Listázd ki azokat a rendeléseket, amelyeket a 'Gyalogkakukk' pizzafutár szállított ki, és az időpontjuk 2023. október 2-én van!
+74.	Hány olyan rendelés van, amelyet a 'Gyalogkakukk' pizzafutár szállított ki és legalább 5 különböző pizzát tartalmaz?
+75.	Listázd ki azokat a vevőket, akiknek a nevében szerepel a 'K' betű, és a címükben a 'Nagy' szó!
+76.	Melyik pizzát rendelték a legtöbbször egyetlen rendelés során, és hány darabot rendeltek belőle?
+77.	Hány olyan rendelés van, amelyet a 'Gyalogkakukk' pizzafutár szállított ki és legalább 2 különböző pizzát tartalmaz, az időpontja pedig 2023. október 1-én van?
+78.	Listázd ki azokat a rendeléseket, amelyeket a 'Gyalogkakukk' pizzafutár szállított ki, és az időpontjuk 2023. október 3-án van, rendezve az áruk összege szerint csökkenő sorrendben!
+79.	Melyik vevő rendelt a legtöbbet egyetlen rendelés során, és melyik pizzát rendelte?
+80.	Hány olyan rendelés van, amelyet a 'Gömbvillám' pizzafutár szállított ki és legalább 3 különböző pizzát tartalmaz, az időpontja pedig 2023. október 2-én van?
+81.	Listázd ki azokat a rendeléseket, amelyeket a 'Gyalogkakukk' pizzafutár szállított ki, és az időpontjuk 2023. október 4-én van, rendezve a vevő neve szerint!
+82.	Melyik vevő rendelt a legtöbbet összesen?
+83.	Hány olyan rendelés van, amelyet a 'Gömbvillám' pizzafutár szállított ki és legalább 4 különböző pizzát tartalmaz?
+84.	Listázd ki azokat a rendeléseket, amelyeket a 'Gyalogkakukk' pizzafutár szállított ki, és az időpontjuk 2023. október 5-én van!
+85.	Melyik vevő rendelt a legdrágább pizzát?
+86.	Hány olyan rendelés van, amelyet a 'Gyalogkakukk' pizzafutár szállított ki és legalább 2 különböző pizzát tartalmaz, az időpontja pedig 2023. október 6-án van?
+87.	Listázd ki azokat a rendeléseket, amelyeket a 'Gyalogkakukk' pizzafutár szállított ki, és az időpontjuk 2023. október 7-én van, rendezve az áruk összege szerint növekvő sorrendben!
+88.	Melyik pizzát rendelték a legtöbbször egyetlen rendelés során, és hány darabot rendeltek belőle azok a vevők, akiknek a nevében szerepel a 'K' betű?
+89.	Hány olyan rendelés van, amelyet a 'Gyalogkakukk' pizzafutár szállított ki és legalább 3 különböző pizzát tartalmaz, az időpontja pedig 2023. október 8-án van?
+90.	Listázd ki azokat a rendeléseket, amelyeket a 'Gyalogkakukk' pizzafutár szállított ki, és az időpontjuk 2023. október 8-án van, rendezve a vevő neve szerint csökkenő sorrendben!
+91.	Melyik pizzát rendelték a legtöbbször azok a vevők, akiknek a címében szerepel a 'Nagy' szó?
+92.	Hány olyan rendelés van, amelyet a 'Gömbvillám' pizzafutár szállított ki és legalább 4 különböző pizzát tartalmaz, az időpontja pedig 2023. október 8-án van?
+93.	Listázd ki azokat a rendeléseket, amelyeket a 'Gyalogkakukk' pizzafutár szállított ki, és az időpontjuk 2023. október 8-án van, rendezve a vevő neve szerint növekvő sorrendben!
+94.	Melyik vevő rendelt a legtöbb különböző pizzát összesen?
+95.	Hány olyan rendelés van, amelyet a 'Gömbvillám' pizzafutár szállított ki és legalább 5 különböző pizzát tartalmaz?
+96.	Listázd ki azokat a rendeléseket, amelyeket a 'Gyalogkakukk' pizzafutár szállított ki, és az időpontjuk 2023. október 8-án van, rendezve az áruk összege szerint csökkenő sorrendben!
+97.	Melyik vevő rendelt a legtöbb pizzát összesen?
+98.	Hány olyan rendelés van, amelyet a 'Gyalogkakukk' pizzafutár szállított ki és legalább 3 különböző pizzát tartalmaz, az időpontja pedig 2023. október 8-án van?
+99.	Listázd ki azokat a rendeléseket, amelyeket a 'Gyalogkakukk' pizzafutár szállított ki, és az időpontjuk 2023. október 8-án van, rendezve a vevő neve és az áruk összege szerint csökkenő sorrendben!
+100.	Melyik pizzát rendelték a legtöbbször egyetlen rendelés során, és hány darabot rendeltek belőle azok a vevők, akiknek a nevében szerepel a 'K' betű, és a címükben a 'Nagy' szó?
+101.	Írj egy lekérdezést, ami megjeleníti az összes pizzafutár nevét és telefonszámát!
+102.	Írj egy lekérdezést, ami megjeleníti az összes rendelést a rendelések időpontja szerint csökkenő sorrendben!
+103.	Írj egy lekérdezést, ami megjeleníti az összes rendelést, a hozzájuk tartozó megrendelő nevét és címét, valamint a rendelés idejét!
+104.	Írj egy lekérdezést, ami megjeleníti az összes olyan rendelést, ahol a pizzafutár azonosítója 2, és a rendelés ideje 2023 október 4-én volt!
+105.	Írj egy lekérdezést, ami megjeleníti az összes olyan rendelést, ahol legalább 3 különböző tétel volt rendelve!
+106.	Írj egy lekérdezést, ami megjeleníti az összes rendeléshez tartozó pizzák nevét és azok darabszámát!
+107.	Írj egy lekérdezést, ami megjeleníti az összes olyan rendelést, ahol a rendelés ideje később volt, mint 2023 október 5. 18:00!
+108.	Írj egy lekérdezést, ami megjeleníti azokat a pizzafutárokat, akik legalább 3 rendelést teljesítettek!
+109.	Írj egy lekérdezést, ami megjeleníti az összes olyan megrendelő nevét és címét, aki legalább 2 rendelést leadott!
+110.	Írj egy lekérdezést, ami megjeleníti az összes olyan pizzát, ami legalább egyszer szerepel a rendelések között!
+111.	Írj egy lekérdezést, ami megjeleníti az összes olyan pizzát, ami nem szerepel a rendelések között!
+112.	Írj egy lekérdezést, ami megjeleníti az összes olyan pizzafutárt, akiknek az átlagos rendeléseik száma meghaladja az 5-öt!
+113.	Írj egy lekérdezést, ami megjeleníti az összes olyan pizzafutárt, akiknek legalább 2 olyan rendelése volt, ahol a rendelés ideje délelőtt 10:00 óra után volt!
+114.	Írj egy lekérdezést, ami megjeleníti az összes olyan rendelést, ahol legalább 3 Capricciosa pizzát rendeltek!
+115.	Írj egy lekérdezést, ami megjeleníti az összes olyan rendelést, ahol az összesen fizetendő összeg (a rendelt pizzák ára összege) meghaladja az 5000 Ft-ot!
+116.	Írj egy lekérdezést, ami megjeleníti az összes olyan pizzafutárt, akik legalább egyszer szerepeltek egy olyan rendelésben, ahol a Frutti di Mare pizza is volt rendelve!
+117.	Írj egy lekérdezést, ami megjeleníti az összes olyan pizzát, ami legalább 3 alkalommal volt rendelve!
+118.	Írj egy lekérdezést, ami megjeleníti az összes olyan rendelést, ahol a megrendelő címe tartalmazza a "szikla" szót!
+119.	Írj egy lekérdezést, ami megjeleníti az összes olyan rendelést, ahol legalább 2 különböző pizzát rendeltek ugyanarra a címre!
+120.	Írj egy lekérdezést, ami megjeleníti az összes olyan rendelést, ahol a rendelés ideje 2023 október 2-án volt, és legalább 2 olyan tétel szerepel a rendelésben, ami legalább 3 darabban lett rendelve!
+121.	Írj egy lekérdezést, ami megjeleníti az összes olyan rendelést, ahol legalább egy olyan pizza szerepel, ami 1000 Ft-nál olcsóbb!
+122.	Írj egy lekérdezést, ami megjeleníti az összes olyan pizzafutárt, akik legalább 2 alkalommal teljesítettek rendelést a hétköznapokon (hétfő-péntek)!
+123.	Írj egy lekérdezést, ami megjeleníti az összes olyan rendelést, ahol a rendelés ideje 2023 október 6-án volt, és legalább egy olyan pizza is volt a rendelésben, ami a Hawaii vagy a Sorrento!
+124.	Írj egy lekérdezést, ami megjeleníti az összes olyan pizzafutárt, akik legalább egyszer teljesítettek rendelést a hétvégén (szombat-vasárnap)!
+125.	Írj egy lekérdezést, ami megjeleníti az összes olyan rendelést, ahol legalább 2 olyan tétel szerepel, ami ugyanabból a pizzából van, és legalább 2 darabban lett rendelve!
+126.	Írj egy lekérdezést, ami megjeleníti az összes olyan pizzát, aminek az ára meghaladja a Frutti di Mare pizza árát!
+127.	Írj egy lekérdezést, ami megjeleníti az összes olyan pizzát, ami legalább egyszer szerepel egy olyan rendelésben, ahol legalább 3 különböző pizza van rendelve!
+128.	Írj egy lekérdezést, ami megjeleníti az összes olyan megrendelő nevét és címét, akik legalább egyszer rendeltek pizzát a Nagytisztás címről!
+129.	Írj egy lekérdezést, ami megjeleníti az összes olyan pizzát, ami legalább egyszer szerepelt egy olyan rendelésben, ahol legalább 2 különböző pizza van rendelve és a rendelés ideje délelőtt 10:00 óra előtt volt!
+130.	Írj egy lekérdezést, ami megjeleníti az összes olyan pizzát, ami legalább egyszer szerepelt egy olyan rendelésben, ahol legalább 2 különböző pizza van rendelve és a rendelés ideje délelőtt 10:00 óra után és délután 6:00 óra előtt volt!
+

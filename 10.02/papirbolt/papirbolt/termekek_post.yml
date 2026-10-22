@@ -1,0 +1,28 @@
+info:
+  name: termekek_post
+  type: http
+  seq: 1
+
+http:
+  method: PUT
+  url: http://localhost:3000/termekek/4?unev=asd&ukategoria=asd&ukeszlet=5&uar=2.5
+  params:
+    - name: unev
+      value: asd
+      type: query
+    - name: ukategoria
+      value: asd
+      type: query
+    - name: ukeszlet
+      value: "5"
+      type: query
+    - name: uar
+      value: "2.5"
+      type: query
+  auth: inherit
+
+settings:
+  encodeUrl: true
+  timeout: 0
+  followRedirects: true
+  maxRedirects: 5

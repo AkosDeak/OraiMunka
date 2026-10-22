@@ -1,0 +1,19 @@
+info:
+  name: rendez
+  type: http
+  seq: 1
+
+http:
+  method: GET
+  url: http://localhost:3000/filmek/rendez?rendez=cim
+  params:
+    - name: rendez
+      value: cim
+      type: query
+  auth: inherit
+
+settings:
+  encodeUrl: true
+  timeout: 0
+  followRedirects: true
+  maxRedirects: 5

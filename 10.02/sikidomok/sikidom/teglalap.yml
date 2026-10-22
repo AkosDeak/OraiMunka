@@ -1,0 +1,21 @@
+info:
+  name: teglalap
+  type: http
+
+http:
+  method: GET
+  url: http://localhost:3000/teglalap/:a/:b
+  params:
+    - name: a
+      value: "4"
+      type: path
+    - name: b
+      value: "9"
+      type: path
+  auth: inherit
+
+settings:
+  encodeUrl: true
+  timeout: 0
+  followRedirects: true
+  maxRedirects: 5

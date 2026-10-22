@@ -1,0 +1,7 @@
+[
+  { "id": 1, "nev": "Kovács Péter", "nem": "ferfi", "kor": 32 },
+  { "id": 2, "nev": "Nagy Anna", "nem": "no", "kor": 27 },
+  { "id": 3, "nev": "Szabó Gábor", "nem": "ferfi", "kor": 41 },
+  { "id": 4, "nev": "Tóth Eszter", "nem": "no", "kor": 24 },
+  { "id": 5, "nev": "Varga László", "nem": "ferfi", "kor": 39 }
+]
