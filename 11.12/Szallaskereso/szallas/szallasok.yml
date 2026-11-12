@@ -5,7 +5,24 @@ info:
 
 http:
   method: GET
-  url: http://localhost:3000/szallasok
+  url: http://localhost:3000/szallasok?medence=true&minCsillag=3&maxAr=60000&varos=Budapest
+  params:
+    - name: id
+      value: "1"
+      type: query
+      disabled: true
+    - name: medence
+      value: "true"
+      type: query
+    - name: minCsillag
+      value: "3"
+      type: query
+    - name: maxAr
+      value: "60000"
+      type: query
+    - name: varos
+      value: Budapest
+      type: query
   auth: inherit
 
 settings:

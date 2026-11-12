@@ -5,7 +5,11 @@ info:
 
 http:
   method: GET
-  url: http://localhost:3000/varosok
+  url: http://localhost:3000/varosok?minSzallas=2
+  params:
+    - name: minSzallas
+      value: "2"
+      type: query
   auth: inherit
 
 settings:
