@@ -5,7 +5,17 @@ info:
 
 http:
   method: GET
-  url: http://localhost:3000/ajanlat
+  url: http://localhost:3000/ajanlat?varos=Eger&ej=2&fo=4
+  params:
+    - name: varos
+      value: Eger
+      type: query
+    - name: ej
+      value: "2"
+      type: query
+    - name: fo
+      value: "4"
+      type: query
   auth: inherit
 
 settings:

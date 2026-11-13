@@ -5,7 +5,11 @@ info:
 
 http:
   method: GET
-  url: http://localhost:3000/legjobb
+  url: http://localhost:3000/legjobb/:num
+  params:
+    - name: num
+      value: "2"
+      type: path
   auth: inherit
 
 settings:
