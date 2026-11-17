@@ -9,7 +9,6 @@ const dbConfig = {
     port : process.env.DB_PORT || 3309
 };
 
-//console.log(dbConfig);
 const pool = mysql.createPool(dbConfig);
 
 export default pool;
